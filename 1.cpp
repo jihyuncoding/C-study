@@ -7,8 +7,9 @@ int main()
 	double celsius;
 	cin >> celsius;
 
-	double farenheit = (9 / 5) * celsius + 32;
+	double farenheit = (9.0 / 5) * celsius + 32;
 
+	cout << celsius << " Celsius is " << farenheit << " Fahrenheit" << endl;
 
-
+	return 0;
 }
