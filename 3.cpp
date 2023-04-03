@@ -10,6 +10,6 @@ int main()
 	double meters = 0.305 * feet;
 
 	cout << feet << " feet is " << meters << " meters" << endl;
-	
+
 	return 0;
 }

@@ -19,12 +19,6 @@
     <Filter Include="소스 파일\2장\exercise">
       <UniqueIdentifier>{36e658f0-495c-4ca3-8da3-b7d8c1614050}</UniqueIdentifier>
     </Filter>
-    <Filter Include="헤더 파일\2장">
-      <UniqueIdentifier>{a4b145a4-83f5-43e2-a41c-ac4430fd4dda}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="헤더 파일\2장\exercise">
-      <UniqueIdentifier>{47b4e937-6939-4a76-b0cd-3d695db44427}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp">
@@ -34,7 +28,7 @@
       <Filter>소스 파일\2장\exercise</Filter>
     </ClCompile>
     <ClCompile Include="3.cpp">
-      <Filter>헤더 파일\2장\exercise</Filter>
+      <Filter>소스 파일\2장\exercise</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
