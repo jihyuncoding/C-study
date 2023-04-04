@@ -39,5 +39,8 @@
     <ClCompile Include="7.cpp">
       <Filter>소스 파일\exercise</Filter>
     </ClCompile>
+    <ClCompile Include="8번.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
