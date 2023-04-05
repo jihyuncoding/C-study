@@ -39,7 +39,43 @@
     <ClCompile Include="7.cpp">
       <Filter>소스 파일\exercise</Filter>
     </ClCompile>
-    <ClCompile Include="8번.cpp">
+    <ClCompile Include="8.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="9.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="10.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="11.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="12.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="13.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="14.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="15.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="16.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="17.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="18.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="19.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="20.cpp">
       <Filter>소스 파일\exercise</Filter>
     </ClCompile>
   </ItemGroup>
