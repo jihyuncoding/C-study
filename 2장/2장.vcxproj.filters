@@ -78,5 +78,17 @@
     <ClCompile Include="20.cpp">
       <Filter>소스 파일\exercise</Filter>
     </ClCompile>
+    <ClCompile Include="21.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="22.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="23.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
+    <ClCompile Include="24.cpp">
+      <Filter>소스 파일\exercise</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
